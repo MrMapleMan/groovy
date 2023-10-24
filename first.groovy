@@ -1,3 +1,10 @@
+/*
+ * Author:      John Henrie
+ * Date:        October 24, 2023
+ * Description: Misc groovy code for learning purposes
+*/
+
+
 def String x = "hi"
 println x
 println(Byte.MIN_VALUE)
